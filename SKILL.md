@@ -11,7 +11,7 @@ allowed-tools: "Bash(openclaw:*)"
 version: "1.0.0"
 author: "claude-code-agent"
 license: "MIT"
-compatible-with: claude-code
+compatible-with: openclaw
 tags: [agent-communication, openclaw, inter-agent, gateway, local-ai]
 ---
 
