@@ -4,7 +4,7 @@ Claude Code skill: agent-to-agent messaging via OpenClaw/Kimi gateway
 
 Install:
 ```bash
-git clone https://github.com/nerua1/openclaw-bridge ~/.claude/skills/vault/openclaw-bridge
+git clone https://github.com/nerudek/openclaw-bridge ~/.claude/skills/vault/openclaw-bridge
 ```
 
 Then load: `/skill openclaw-bridge`
